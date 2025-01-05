@@ -1,7 +1,5 @@
 ## Student-App
 
-## Student Information Management App
-
 A comprehensive React Native application for managing and displaying student information. The app includes features to view student bio-data, enrolled course details, subjects under the course, and marks with pagination.
 
 ### Features
